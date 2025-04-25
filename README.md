@@ -120,13 +120,13 @@ Below are the key dashboards generated from the project:
    ![Welcome Dashboard](./welcome_dashboard.png)
 
 2. **Business Performance Dashboard**  
-   ![Business Performance](./business_performance.png)
+   ![business_performance_dashboard](./business_performance_dashboard.png)
 
 3. **Inventory Management Dashboard**  
-   ![Inventory Management](./inventory_management.png)
+   ![inventory_management_dashboard](./inventory_management_dashboard.png)
 
 4. **Shipment Management Dashboard**  
-   ![Shipment Management](./shipment_management.png)
+   ![shipment_management_dashboard](./shipment_management_dashboard.png)
 
 ## License
 
